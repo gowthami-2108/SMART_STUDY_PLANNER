@@ -1,6 +1,11 @@
-streamlit
 scikit-learn
-pandas
 numpy
 nltk
+streamlit
+sqlite3
+bcrypt
+pandas
 matplotlib
+seaborn
+plotly
+python-dotenv
