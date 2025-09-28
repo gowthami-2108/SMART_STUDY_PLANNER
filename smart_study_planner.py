@@ -1,5 +1,6 @@
 import streamlit as st
 import sqlite3
+import bcrypt
 import pandas as pd
 from datetime import date
 import matplotlib.pyplot as plt
