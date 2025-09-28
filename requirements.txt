@@ -2,7 +2,6 @@ scikit-learn
 numpy
 nltk
 streamlit
-sqlite3
 bcrypt
 pandas
 matplotlib
